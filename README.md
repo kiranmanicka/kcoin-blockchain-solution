@@ -1,11 +1,11 @@
 
-The Kcoin blockchain is a rudimentary blockchain solution which supports a network of express servers which communicate through Redis Pub/Sub. This project has a fully scalable backend as well as frontend and can be deployed publicly.
+The Kcoin blockchain is a rudimentary blockchain solution which contains a network of express servers which communicate through Redis Pub/Sub. This project has a fully scalable backend as well as a frontend and is capable of being deployed publicly. The Kcoin blockchain contains the core features of any blockchain: cryptographic hashing, proof of work, transaction verification, transaction pools, mining,public/private keys etc.
 
 This block chain solution is a demo blockchain to be run locally on your machine.
 
-This blockchain solution leverages node.js, React, Express servers, Redis Pub/Sub, heroku, as well as many other libraries and packages.
+This blockchain solution leverages node.js, React, Express servers, Redis Pub/Sub, as well as many other libraries and packages.
 
-The Kcoin blockchain contains the core features of any blockchain: cryptographic hashing, proof of work, transaction verification, mining etc.
+
 
 
 How to Run Locally:
